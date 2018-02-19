@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2018.2.1)  19 FEB 2018 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2018/dev/Debian) (preloaded format=pdflatex 2018.2.1)  19 FEB 2018 17:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -325,10 +325,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--64
 <img1.png, id=1, 196.3335pt x 134.904pt>
 File: img1.png Graphic file (type png)
 <use img1.png>
-Package pdftex.def Info: img1.png  used on input line 89.
+Package pdftex.def Info: img1.png  used on input line 90.
 (pdftex.def)             Requested size: 252.0pt x 173.15614pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 89--90
+Overfull \hbox (12.0pt too wide) in paragraph at lines 90--91
  [][] 
  []
 
@@ -342,7 +342,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-LaTeX Font Info:    Try loading font information for T1+aett on input line 153.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 154.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/ae/t1aett.fd
@@ -350,36 +350,36 @@ File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
 
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 163.
+(Font)              using `T1/aett/m/n' instead on input line 164.
 
 [2 <./img1.png>]
 <img2.png, id=20, 235.47975pt x 146.949pt>
 File: img2.png Graphic file (type png)
 <use img2.png>
-Package pdftex.def Info: img2.png  used on input line 186.
+Package pdftex.def Info: img2.png  used on input line 187.
 (pdftex.def)             Requested size: 252.0pt x 157.26526pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 186--187
+Overfull \hbox (12.0pt too wide) in paragraph at lines 187--188
  [][] 
  []
 
 
-Overfull \hbox (11.53458pt too wide) in paragraph at lines 209--210
+Overfull \hbox (11.53458pt too wide) in paragraph at lines 210--211
 \T1/aer/m/n/9 from-same per-spec-tive, mo-bile users gen-er-ally shoot videos
  []
 
 
-Overfull \hbox (6.72833pt too wide) in paragraph at lines 210--212
+Overfull \hbox (6.72833pt too wide) in paragraph at lines 211--213
 \T1/aer/m/n/9 de-ci-sions in-clude shoot-ing an-gle, dis-tance from the stage,
  []
 
 
-Overfull \hbox (8.33188pt too wide) in paragraph at lines 210--212
+Overfull \hbox (8.33188pt too wide) in paragraph at lines 211--213
 \T1/aer/m/n/9 state this ex-pe-ri-ence in terms of hard-coded rules. There-
  []
 
 [3 <./img2.png>]
-Overfull \hbox (2.36536pt too wide) in paragraph at lines 219--220
+Overfull \hbox (2.36536pt too wide) in paragraph at lines 220--221
 \T1/aer/m/n/9 The pro-posed frame-work con-sists of one of-fline learn-ing phas
 e
  []
@@ -387,10 +387,10 @@ e
 <img3.png, id=26, 224.037pt x 180.675pt>
 File: img3.png Graphic file (type png)
 <use img3.png>
-Package pdftex.def Info: img3.png  used on input line 291.
+Package pdftex.def Info: img3.png  used on input line 292.
 (pdftex.def)             Requested size: 252.0pt x 203.22853pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 291--294
+Overfull \hbox (12.0pt too wide) in paragraph at lines 292--295
  [][] 
  []
 
@@ -401,10 +401,10 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img4.png, id=34, 366.36874pt x 306.14375pt>
 File: img4.png Graphic file (type png)
 <use img4.png>
-Package pdftex.def Info: img4.png  used on input line 327.
+Package pdftex.def Info: img4.png  used on input line 328.
 (pdftex.def)             Requested size: 252.0pt x 210.57607pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 327--330
+Overfull \hbox (12.0pt too wide) in paragraph at lines 328--331
  [][] 
  []
 
@@ -412,18 +412,18 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 327--330
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
+Underfull \hbox (badness 10000) in paragraph at lines 355--356
 
  []
 
 [5 <./img3.png> <./img4.png>]
-Overfull \hbox (7.43204pt too wide) in paragraph at lines 390--391
+Overfull \hbox (7.43204pt too wide) in paragraph at lines 391--392
 \T1/aer/m/n/9 tran-si-tion prob-a-bil-i-ties for the above de-scribed six state
 s. 
  []
 
 
-Overfull \hbox (5.9203pt too wide) in paragraph at lines 433--434
+Overfull \hbox (5.9203pt too wide) in paragraph at lines 434--435
 \T1/aer/m/n/9 smaller ( av-er-age around 2.3 sec-onds) com-pared to solo singin
 g
  []
@@ -431,10 +431,10 @@ g
 <img5.png, id=42, 233.07076pt x 177.66376pt>
 File: img5.png Graphic file (type png)
 <use img5.png>
-Package pdftex.def Info: img5.png  used on input line 481.
+Package pdftex.def Info: img5.png  used on input line 482.
 (pdftex.def)             Requested size: 252.0pt x 192.099pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 481--482
+Overfull \hbox (12.0pt too wide) in paragraph at lines 482--483
  [][] 
  []
 
@@ -442,18 +442,13 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 481--482
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6]
-Overfull \hbox (3.01057pt too wide) in paragraph at lines 524--524
+Overfull \hbox (3.01057pt too wide) in paragraph at lines 525--525
 \T1/aer/m/n/9 Record- 
  []
 
 
-Overfull \hbox (2.33574pt too wide) in paragraph at lines 524--524
+Overfull \hbox (2.33574pt too wide) in paragraph at lines 525--525
 \T1/aer/m/n/9 tion(m)|  
- []
-
-
-Overfull \hbox (3.86575pt too wide) in paragraph at lines 525--525
-\T1/aer/m/n/9 720*480|  
  []
 
 
@@ -466,26 +461,31 @@ Overfull \hbox (3.86575pt too wide) in paragraph at lines 527--527
 \T1/aer/m/n/9 720*480|  
  []
 
+
+Overfull \hbox (3.86575pt too wide) in paragraph at lines 528--528
+\T1/aer/m/n/9 720*480|  
+ []
+
 <img6.png, id=47, 399.29175pt x 269.20575pt>
 File: img6.png Graphic file (type png)
 <use img6.png>
-Package pdftex.def Info: img6.png  used on input line 572.
+Package pdftex.def Info: img6.png  used on input line 573.
 (pdftex.def)             Requested size: 504.0pt x 339.80896pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [7 <./img5.png>]
-Overfull \hbox (9.722pt too wide) in paragraph at lines 615--623
+Overfull \hbox (9.722pt too wide) in paragraph at lines 616--624
 [][] 
  []
 
 <img7.png, id=53, 222.23026pt x 190.91325pt>
 File: img7.png Graphic file (type png)
 <use img7.png>
-Package pdftex.def Info: img7.png  used on input line 639.
+Package pdftex.def Info: img7.png  used on input line 640.
 (pdftex.def)             Requested size: 252.0pt x 216.4956pt.
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 639--640
+Overfull \hbox (12.0pt too wide) in paragraph at lines 640--641
 [][] 
  []
 
@@ -495,7 +495,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <img8.png, id=54, 176.45924pt x 125.268pt>
 File: img8.png Graphic file (type png)
 <use img8.png>
-Package pdftex.def Info: img8.png  used on input line 647.
+Package pdftex.def Info: img8.png  used on input line 648.
 (pdftex.def)             Requested size: 176.4588pt x 125.26768pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -550,7 +550,7 @@ dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on new.pdf (11 pages, 1189750 bytes).
+Output written on new.pdf (11 pages, 1189888 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  79 compressed objects within 1 object stream
